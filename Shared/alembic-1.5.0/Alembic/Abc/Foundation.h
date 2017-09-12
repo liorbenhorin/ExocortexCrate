@@ -49,6 +49,7 @@
 #include <iostream>
 #include <string>
 #include <exception>
+#include <algorithm>
 
 #include <stdlib.h>
 #include <stdio.h>
