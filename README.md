@@ -77,6 +77,7 @@ Install Cmake and then go into the build folder and run the appropriate batch fi
     build-vs2008_x64.bat        # for Microsoft Visual Studio 2008
     build-vs2010_x64.bat        # for Microsoft Visual Studio 2010
     build-vs2012_x64.bat        # for Microsoft Visual Studio 2012
+    build-vs2015_x64.bat        # for Microsoft Visual Studio 2015
     build-UnixDebug.sh          # for Linux, Fedora 9 and Fedora 14
     build-UnixRelease.sh        # for linux, Fedora 9 and Fedora 14
 
