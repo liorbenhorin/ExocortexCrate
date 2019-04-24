@@ -1,9 +1,9 @@
-ExocortexAlembicSoftimage.so
+ExocortexAlembicMaya.so
 {
     global:
         extern "C" {
-			XSIUnloadPlugin;
-			XSILoadPlugin;
+			uninitializePlugin;
+			initializePlugin;
 			alembic_*;
         };
     local:

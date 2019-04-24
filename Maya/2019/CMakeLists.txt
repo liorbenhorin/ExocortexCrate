@@ -1,5 +1,4 @@
 cmake_minimum_required (VERSION 2.6)
 
-set( Max_VERSION "2017" ) 
-
+set( Maya_VERSION "2019" )
 include( ../CMakeLists.txt )
