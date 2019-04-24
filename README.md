@@ -10,24 +10,7 @@ http://exocortex.com/products/crate
 
 The pre-compiled binaries support the following:
 
-- Maya 2016 Windows & Linux
-- Maya 2015 Windows & Linux
-- Maya 2014 Windows & Linux
-- Maya 2013 Windows & Linux
-- Maya 2012 Windows & Linux
-- Maya 2011 Windows & Linux
-- Maya 2010 Windows & Linux
-- 3DS Max 2016 Windows
-- 3DS Max 2015 Windows
-- 3DS Max 2014 Windows
-- 3DS Max 2013 Windows
-- 3DS Max 2012 Windows
-- 3DS Max 2011 Windows
-- 3DS Max 2010 Windows
-- Softimage 2015 Windows & Linux
-- Softimage 2014 Windows & Linux
-- Softimage 2013 Windows & Linux
-- Softimage 2012 Windows & Linux
+- Maya 2019 Windows
 - Arnold 4.x Windows & Linux
 - Arnold 3.x Windows & Linux
 - Python 2.7 Windows
